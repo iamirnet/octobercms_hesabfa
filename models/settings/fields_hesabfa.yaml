@@ -1,0 +1,24 @@
+fields:
+  base:
+    label: iamirnet.hesabfa::lang.hesabfa.setting
+    type: section
+  hesabfa_user_id:
+    label: iamirnet.hesabfa::lang.hesabfa.user_id
+    span: auto
+    type: text
+    oc.commentPosition: ''
+  hesabfa_password:
+    label: iamirnet.hesabfa::lang.hesabfa.password
+    span: auto
+    type: text
+    oc.commentPosition: ''
+  hesabfa_api_key:
+    label: iamirnet.hesabfa::lang.hesabfa.api_key
+    span: auto
+    type: text
+    oc.commentPosition: ''
+  hesabfa_description:
+    label: iamirnet.hesabfa::lang.hesabfa.hesabfa_description
+    span: auto
+    type: text
+    oc.commentPosition: ''

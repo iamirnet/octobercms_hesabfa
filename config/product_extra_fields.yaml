@@ -1,0 +1,8 @@
+# ===================================
+#  Extended Product Field Definitions
+# ===================================
+
+hesabfa_code:
+    label: iamirnet.hesabfa::lang.hesabfa.hesabfa_code
+    tab: azarinweb.minimall::lang.product.description
+    span: auto

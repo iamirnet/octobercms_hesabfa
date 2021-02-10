@@ -1,0 +1,8 @@
+# ===================================
+#  Extended Profile Field Definitions
+# ===================================
+
+hesabfa_code:
+    label: iamirnet.hesabfa::lang.hesabfa.hesabfa_code
+    tab: azarinweb.userplus::lang.tab.profile
+    span: auto
