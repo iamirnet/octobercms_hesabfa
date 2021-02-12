@@ -1,6 +1,6 @@
 fields:
   base:
-    label: iamirnet.hesabfa::lang.hesabfa.setting
+    label: iamirnet.hesabfa::lang.hesabfa.title
     type: section
   hesabfa_user_id:
     label: iamirnet.hesabfa::lang.hesabfa.user_id
