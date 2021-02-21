@@ -71,7 +71,7 @@ class Plugin extends PluginBase
                 'label'       => 'iamirnet.hesabfa::lang.hesabfa.title',
                 'description' => 'iamirnet.hesabfa::lang.hesabfa.description',
                 'category'    => 'iamirnet.minimall::lang.settings.accounting.title',
-                'icon'        => 'icon-credit-card',
+                'icon'        => 'icon-cog',
                 'class'       => HesabFaSettings::class,
                 'order'       => 800,
                 'permissions' => ['iamirnet.hesabfa.access_hesabfa']
